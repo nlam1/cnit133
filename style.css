@@ -1,6 +1,14 @@
 header {
 	color : #ff8000;
+	text-align: center;
+	font-size: 40px;
+}
+
+ul {
+	text-align: center;
 }
 
 body {
+	background-color: #000000;
+	
 }
