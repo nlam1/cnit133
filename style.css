@@ -1,6 +1,15 @@
-body {
+header {
 	text-align: center;
-	margin: 25px auto;
-	backgroun: black;
+	font-size: 20x;
+	color : #ff8000;
+}
+}
+
+body {
+	background-color: black;
 }
 	
+
+#list {
+	text-align: center;
+}
